@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "",
   "main": "dist/index.js",
+  "repository": {
+    "url": "https://github.com/JazzXP/sam-ts-util.git"
+  },
+  "type": "module",
   "scripts": {
     "test": "vitest --coverage --config vitest.config.ts",
     "build": "tsc --project tsconfig.build.json"
@@ -16,5 +20,8 @@
   },
   "devDependencies": {
     "@vitest/coverage-istanbul": "3.0.9"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
