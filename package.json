@@ -1,0 +1,19 @@
+{
+  "name": "sam-ts-util",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --coverage --config vitest.config.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.8.2",
+    "vitest": "^3.0.9"
+  },
+  "devDependencies": {
+    "@vitest/coverage-istanbul": "3.0.9"
+  }
+}
