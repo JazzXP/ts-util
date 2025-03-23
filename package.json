@@ -1,5 +1,5 @@
 {
-  "name": "sam-ts-util",
+  "name": "@jazzxp/sam-ts-util",
   "version": "0.1.0",
   "description": "",
   "main": "dist/index.js",
