@@ -1,6 +1,6 @@
 {
-  "name": "@jazzxp/sam-ts-util",
-  "version": "0.3.3",
+  "name": "@jazzxp/ts-util",
+  "version": "0.3.4",
   "description": "",
   "main": "dist/index.js",
   "repository": {
