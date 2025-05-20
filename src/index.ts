@@ -1,4 +1,4 @@
-export * from './types';
+export type * from './types';
 export * from './tryCatch';
 export * from './funcs';
 export * from './strings';
